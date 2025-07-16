@@ -9,7 +9,7 @@
     "routes": [
       {
         "src": "/api/rss",
-        "dest": "/api/rss"
+        "dest": "/api/route"
       }
     ]
   }
